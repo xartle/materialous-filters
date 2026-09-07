@@ -1,0 +1,16 @@
+{
+  "version": "v2",
+  "createdFor": "materialious",
+  "filterBy": [
+    {
+      "type": "video",
+      "conditions": [
+        {
+          "operator": "lt",
+          "field": "lengthSeconds",
+          "values": [61]
+        }
+      ]
+    }
+  ]
+}
