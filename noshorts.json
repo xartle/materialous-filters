@@ -1,0 +1,16 @@
+{
+  "version": "v2",
+  "createdFor": "materialious",
+  "filterBy": [
+    {
+      "type": "video",
+      "conditions": [
+        {
+          "operator": "equals",
+          "field": "type",
+          "values": ["shortVideo"]
+        }
+      ]
+    }
+  ]
+}
